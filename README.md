@@ -7,8 +7,11 @@ This is a product of several projects which involved long running programs which
 ## Notification Channels
 - [ ] SMS
   - [ ] Carrier Gateway
-  - [ ] Twilio
+  - [ ] 3rd Party Provider
+    - [ ] Twilio
 - [ ] Email
+  - [ ] External Server
+  - [ ] Local SMTP Server
 - [ ] Twitter
   - [ ] Tweet
   - [ ] Direct Message
